@@ -1017,3 +1017,488 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.27-14.40.07:155][703]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EA89DE9000), frame # 22703
 [2021.03.27-14.40.07:158][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2021.03.27-14.40.07:196][704]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.27-14.45.09:038][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.03.27-14.45.09:087][578]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonExampleMap_Auto1F521D1E84F7F5F2109BF9AB762BBAC08.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.03.27-14.45.09:093][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.079
+[2021.03.27-14.45.09:093][578]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2021.03.27-14.45.09:094][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.03.27-14.45.09:117][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.03.27-14.45.09:117][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.03.27-14.45.09:159][578]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter_Auto1ACAB26D442CB84D77938D29C6343A9F0.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2021.03.27-14.45.09:159][578]LogFileHelpers: Auto-saving content packages took 0.066
+[2021.03.27-15.07.05:998][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.03.27-15.07.06:000][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.025
+[2021.03.27-15.07.06:000][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.03.27-15.07.06:025][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.03.27-15.07.06:026][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.03.27-15.07.06:070][136]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter_Auto242C1BE5F4DB53716A34E719B01267FA2.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2021.03.27-15.07.06:071][136]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.03.27-15.08.29:342][166]LogSlate: Took 0.009196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.27-15.08.51:592][731]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter5531629046C188FEF8A9DF8B53582FA0.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.08.51:612][731]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.08.51:612][731]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.08.52:024][758]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.08.52:041][758]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_2
+[2021.03.27-15.08.52:084][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.27-15.10.16:579][347]LogEditCondition: Error: EditCondition parsing failed: Field name "bSoftConstraint" was not found in class "PhysicsHandleComponent".
+[2021.03.27-15.13.24:451][977]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter901D86D1428A2EAB8726489AA690F25D.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.13.24:468][977]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.13.24:468][977]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.13.25:124][ 32]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.13.25:145][ 32]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_3
+[2021.03.27-15.13.25:190][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.03.27-15.15.17:265][811]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2021.03.27-15.15.22:548][241]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentLocation' [The specified module could not be found.]
+[2021.03.27-15.15.25:554][504]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter8FE04500463219ED1DB2A0ACD51BE581.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.15.25:570][504]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.15.25:570][504]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.15.26:729][604]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.15.26:749][604]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_4
+[2021.03.27-15.15.26:792][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.27-15.16.57:582][925]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.16.57:606][925]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_6
+[2021.03.27-15.16.57:649][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.27-15.16.58:312][962]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter5D23410644FF3A12A59C3BAC2946BC17.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.16.58:327][962]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.16.58:327][962]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.17.07:886][715]LogEditorTransaction: Undo Delete current selection
+[2021.03.27-15.17.36:404][786]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter20AC7573411BF535128CB6AC86355E76.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.17.36:419][786]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.17.36:419][786]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.17.37:760][885]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.17.37:781][885]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_7
+[2021.03.27-15.17.37:823][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.03.27-15.18.14:594][ 83]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter8F3FDFE6460EF921CB3E9781D4A3AF1D.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.18.14:610][ 83]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.18.14:610][ 83]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.18.15:568][142]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.18.15:590][142]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_7
+[2021.03.27-15.18.15:632][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.03.27-15.18.44:558][536]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.18.44:579][536]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_7
+[2021.03.27-15.18.44:621][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.03.27-15.18.45:391][572]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter65435AA54F39460E78F6EC806142A6F3.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.18.45:405][572]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.18.45:405][572]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.18.48:106][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.18.48:124][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.18.48:124][796]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:18:48)
+[2021.03.27-15.18.48:159][796]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.18.48:172][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013485s)
+[2021.03.27-15.18.48:174][796]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.18.48:174][796]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EAFD23BC00), frame # 80796
+[2021.03.27-15.18.48:174][796]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAB8E13D80), frame # 80796
+[2021.03.27-15.18.48:174][796]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2021.03.27-15.18.48:174][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015204s)
+[2021.03.27-15.18.48:202][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.18.48:204][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.18.48:204][796]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.18.48:204][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.18.48:210][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.18.48:210][796]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.18.48:230][796]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.18.48:230][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.18.48:230][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.18.48:230][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.18.48:231][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.18.48:243][796]LogInit: FAudioDevice initialized.
+[2021.03.27-15.18.48:251][796]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.18.48:254][796]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.18.48
+[2021.03.27-15.18.48:254][796]LogWorld: Bringing up level for play took: 0.002038
+[2021.03.27-15.18.48:254][796]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.27-15.18.48:257][796]PIE: Server logged in
+[2021.03.27-15.18.48:257][796]PIE: Play in editor total start time 0.134 seconds.
+[2021.03.27-15.18.50:124][ 16]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.18.50:124][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.18.51:631][197]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.18.51:632][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.18.54:866][585]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.18.54:866][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.18.57:330][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.18.57:330][877]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.18.57:330][877]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.18.57:330][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.18.57:357][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.18.57:360][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.18.57:397][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.18.57:398][877]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAB8E13D80), frame # 81877
+[2021.03.27-15.18.57:398][877]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EAFD23BC00), frame # 81877
+[2021.03.27-15.18.57:401][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.27-15.18.57:559][878]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.27-15.19.08:956][238]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.19.08:959][238]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.20.02:914][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.03.27-15.20.02:962][916]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonExampleMap_Auto31B663AD74614B97ED7062094373B3750.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2021.03.27-15.20.02:964][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.072
+[2021.03.27-15.20.02:964][916]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2021.03.27-15.20.37:529][551]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter48197EFF4E58ED6ECCC6EAA7A94CEE2A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.20.37:547][551]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.20.37:547][551]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.20.38:186][602]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.20.38:208][602]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_7
+[2021.03.27-15.20.38:250][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.03.27-15.20.40:096][714]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.20.40:113][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.20.40:113][714]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:20:40)
+[2021.03.27-15.20.40:138][714]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.20.40:151][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012690s)
+[2021.03.27-15.20.40:152][714]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.20.40:152][714]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EAF5764200), frame # 85714
+[2021.03.27-15.20.40:152][714]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAF5658B80), frame # 85714
+[2021.03.27-15.20.40:152][714]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2021.03.27-15.20.40:152][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014297s)
+[2021.03.27-15.20.40:180][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.20.40:181][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.20.40:181][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.20.40:182][714]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.20.40:182][714]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.20.40:187][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.20.40:187][714]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.20.40:207][714]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.20.40:207][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.20.40:207][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.20.40:207][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.20.40:208][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.20.40:221][714]LogInit: FAudioDevice initialized.
+[2021.03.27-15.20.40:233][714]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.20.40:236][714]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.20.40
+[2021.03.27-15.20.40:236][714]LogWorld: Bringing up level for play took: 0.002350
+[2021.03.27-15.20.40:236][714]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.27-15.20.40:240][714]PIE: Server logged in
+[2021.03.27-15.20.40:241][714]PIE: Play in editor total start time 0.129 seconds.
+[2021.03.27-15.20.43:471][998]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.20.43:471][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.20.49:523][724]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.20.49:523][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.20.50:515][843]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.20.50:515][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.21.01:380][146]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.21.01:380][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.21.02:080][230]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0264
+[2021.03.27-15.21.02:081][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.21.02:864][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.21.05:140][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.21.33:430][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.21.33:430][983]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.21.33:430][983]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.21.33:430][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.21.33:459][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.21.33:462][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.21.33:500][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.21.33:501][983]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAF5658B80), frame # 91983
+[2021.03.27-15.21.33:501][983]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EAF5764200), frame # 91983
+[2021.03.27-15.21.33:503][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.27-15.21.33:657][984]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.27-15.21.39:150][616]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.21.39:154][616]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.23.34:778][464]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter22FFBE094946C8CDF77926AA19EEDF9D.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.23.34:797][464]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.23.34:797][464]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.23.35:286][500]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.23.35:309][500]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_8
+[2021.03.27-15.23.35:351][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.03.27-15.23.37:232][663]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.23.37:251][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.23.37:251][663]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:23:37)
+[2021.03.27-15.23.37:288][663]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.23.37:301][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012737s)
+[2021.03.27-15.23.37:302][663]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.23.37:302][663]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EA87CB6C00), frame # 99663
+[2021.03.27-15.23.37:302][663]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAFEA2EAC0), frame # 99663
+[2021.03.27-15.23.37:303][663]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2021.03.27-15.23.37:303][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014744s)
+[2021.03.27-15.23.37:331][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.23.37:332][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.23.37:332][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.23.37:333][663]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.23.37:333][663]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.23.37:338][663]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.23.37:338][663]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.23.37:357][663]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.23.37:358][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.23.37:358][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.23.37:358][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.23.37:358][663]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.23.37:371][663]LogInit: FAudioDevice initialized.
+[2021.03.27-15.23.37:381][663]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.23.37:383][663]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.23.37
+[2021.03.27-15.23.37:384][663]LogWorld: Bringing up level for play took: 0.002100
+[2021.03.27-15.23.37:384][663]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.27-15.23.37:386][663]PIE: Server logged in
+[2021.03.27-15.23.37:387][663]PIE: Play in editor total start time 0.137 seconds.
+[2021.03.27-15.23.38:205][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.23.38:872][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.23.39:130][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.23.39:322][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.23.39:490][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.23.39:789][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.23.39:789][941]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.23.39:789][941]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.23.39:789][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.23.39:823][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.23.39:826][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.23.39:864][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.23.39:865][941]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAFEA2EAC0), frame # 99941
+[2021.03.27-15.23.39:865][941]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EA87CB6C00), frame # 99941
+[2021.03.27-15.23.39:868][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.03.27-15.23.40:030][942]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.27-15.23.44:457][450]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.23.44:460][450]LogSlate: Window 'Message Log' being destroyed
+[2021.03.27-15.23.48:740][708]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacterD2C942204448DD362149CE9E2E470ED1.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.23.48:754][708]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.23.48:754][708]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.24.07:733][404]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacterF255B99D4F07A724C9374FA86D0546CB.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.24.07:747][404]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.24.07:748][404]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.24.11:567][725]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.24.11:586][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.24.11:586][725]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:24:11)
+[2021.03.27-15.24.11:586][725]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.24.11:599][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012406s)
+[2021.03.27-15.24.11:600][725]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.24.11:600][725]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EAA7759000), frame # 102725
+[2021.03.27-15.24.11:600][725]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAFC3D1800), frame # 102725
+[2021.03.27-15.24.11:601][725]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2021.03.27-15.24.11:601][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014250s)
+[2021.03.27-15.24.11:628][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.24.11:630][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.24.11:630][725]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.24.11:630][725]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.24.11:636][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.24.11:636][725]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.24.11:654][725]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.24.11:654][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.24.11:654][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.24.11:654][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.24.11:654][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.24.11:667][725]LogInit: FAudioDevice initialized.
+[2021.03.27-15.24.11:677][725]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.24.11:680][725]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.24.11
+[2021.03.27-15.24.11:680][725]LogWorld: Bringing up level for play took: 0.002371
+[2021.03.27-15.24.11:680][725]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.27-15.24.11:683][725]PIE: Server logged in
+[2021.03.27-15.24.11:684][725]PIE: Play in editor total start time 0.098 seconds.
+[2021.03.27-15.24.15:176][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2021.03.27-15.24.18:260][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.24.18:260][450]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.24.18:260][450]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.24.18:260][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.24.18:290][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.24.18:294][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.24.18:315][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.24.18:333][450]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAFC3D1800), frame # 103450
+[2021.03.27-15.24.18:333][450]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EAA7759000), frame # 103450
+[2021.03.27-15.24.18:335][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.27-15.24.18:479][451]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.27-15.25.22:695][656]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter5E9B37144E24EA17FFA6F28A91BADCAE.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.25.22:709][656]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.25.22:709][656]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.25.23:462][712]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.25.23:484][712]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_8
+[2021.03.27-15.25.23:524][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.03.27-15.25.27:219][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.25.27:237][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.25.27:237][ 95]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:25:27)
+[2021.03.27-15.25.27:259][ 95]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.25.27:271][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013286s)
+[2021.03.27-15.25.27:273][ 95]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.25.27:273][ 95]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EAB299E600), frame # 109095
+[2021.03.27-15.25.27:273][ 95]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAF1F4A340), frame # 109095
+[2021.03.27-15.25.27:273][ 95]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2021.03.27-15.25.27:273][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015387s)
+[2021.03.27-15.25.27:303][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.25.27:304][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.25.27:304][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.25.27:304][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.25.27:305][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.25.27:310][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.25.27:310][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.25.27:329][ 95]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.25.27:329][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.25.27:330][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.25.27:330][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.25.27:330][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.25.27:344][ 95]LogInit: FAudioDevice initialized.
+[2021.03.27-15.25.27:353][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.25.27:355][ 95]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.25.27
+[2021.03.27-15.25.27:356][ 95]LogWorld: Bringing up level for play took: 0.002264
+[2021.03.27-15.25.27:356][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.27-15.25.27:358][ 95]PIE: Server logged in
+[2021.03.27-15.25.27:359][ 95]PIE: Play in editor total start time 0.123 seconds.
+[2021.03.27-15.25.30:400][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.25.30:400][452]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.25.30:400][452]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.25.30:400][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.25.30:430][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.25.30:433][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.25.30:470][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.25.30:471][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAF1F4A340), frame # 109452
+[2021.03.27-15.25.30:471][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EAB299E600), frame # 109452
+[2021.03.27-15.25.30:474][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.03.27-15.25.30:510][453]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.27-15.26.08:535][922]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter04C4FB55418D5C265AB6ABA9017E874A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.26.08:551][922]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.26.08:551][922]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.26.09:896][ 18]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.26.09:918][ 18]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_8
+[2021.03.27-15.26.09:960][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.03.27-15.26.16:965][562]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter1D80707D4AC9167C0879789A1751452E.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.26.16:981][562]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.26.16:981][562]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.26.32:080][722]LogEditorTransaction: Undo Move Node
+[2021.03.27-15.26.33:181][768]LogEditorTransaction: Redo Move Node
+[2021.03.27-15.26.47:643][897]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacterE512D6DF46A7AA1E590685A85895F71E.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.26.47:658][897]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.26.47:658][897]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.26.49:865][ 54]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.03.27-15.26.49:887][ 54]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.REINST_FirstPersonCharacter_C_8
+[2021.03.27-15.26.49:932][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.03.27-15.26.52:842][250]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonCharacter1ECFF57B486463C33021C799C3F22914.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.03.27-15.26.52:856][250]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.03.27-15.26.52:856][250]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.03.27-15.26.58:751][778]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.26.58:769][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.26.58:769][778]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:26:58)
+[2021.03.27-15.26.58:769][778]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.26.58:782][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012514s)
+[2021.03.27-15.26.58:783][778]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.26.58:783][778]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EAF1F26C00), frame # 115778
+[2021.03.27-15.26.58:784][778]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EAFEA39F80), frame # 115778
+[2021.03.27-15.26.58:784][778]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2021.03.27-15.26.58:784][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014430s)
+[2021.03.27-15.26.58:812][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.26.58:814][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.26.58:814][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.26.58:815][778]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.26.58:815][778]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.26.58:821][778]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.26.58:821][778]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.26.58:840][778]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.26.58:841][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.26.58:841][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.26.58:841][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.26.58:841][778]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.26.58:854][778]LogInit: FAudioDevice initialized.
+[2021.03.27-15.26.58:863][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.26.58:866][778]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.26.58
+[2021.03.27-15.26.58:866][778]LogWorld: Bringing up level for play took: 0.002162
+[2021.03.27-15.26.58:867][778]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.27-15.26.58:869][778]PIE: Server logged in
+[2021.03.27-15.26.58:870][778]PIE: Play in editor total start time 0.101 seconds.
+[2021.03.27-15.27.02:670][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.27.02:670][227]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.27.02:670][227]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.27.02:671][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.27.02:703][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.27.02:706][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.27.02:743][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.27.02:743][227]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EAFEA39F80), frame # 116227
+[2021.03.27-15.27.02:743][227]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EAF1F26C00), frame # 116227
+[2021.03.27-15.27.02:746][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.03.27-15.27.02:782][228]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.27-15.27.04:010][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.27-15.27.04:028][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.27-15.27.04:028][369]PIE: New page: PIE session: FirstPersonExampleMap (27 Mar 2021, 15:27:04)
+[2021.03.27-15.27.04:068][369]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.27.04:081][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013091s)
+[2021.03.27-15.27.04:082][369]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.03.27-15.27.04:082][369]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001EA8A985C00), frame # 116369
+[2021.03.27-15.27.04:082][369]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001EACA039A80), frame # 116369
+[2021.03.27-15.27.04:082][369]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2021.03.27-15.27.04:082][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014693s)
+[2021.03.27-15.27.04:110][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.27-15.27.04:111][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.27-15.27.04:111][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.27-15.27.04:112][369]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.27-15.27.04:112][369]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.27-15.27.04:117][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.27-15.27.04:117][369]LogAudioMixer: Display: 1: FrontRight
+[2021.03.27-15.27.04:137][369]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.03.27-15.27.04:137][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.27-15.27.04:137][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.27-15.27.04:137][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.27-15.27.04:138][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.27-15.27.04:150][369]LogInit: FAudioDevice initialized.
+[2021.03.27-15.27.04:160][369]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.03.27-15.27.04:162][369]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.03.27-15.27.04
+[2021.03.27-15.27.04:162][369]LogWorld: Bringing up level for play took: 0.002027
+[2021.03.27-15.27.04:163][369]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.27-15.27.04:165][369]PIE: Server logged in
+[2021.03.27-15.27.04:166][369]PIE: Play in editor total start time 0.139 seconds.
+[2021.03.27-15.27.40:339][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.27.40:339][697]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.03.27-15.27.40:339][697]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.27-15.27.40:339][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.27.40:348][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.27-15.27.40:351][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.27-15.27.40:372][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.27-15.27.40:390][697]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001EACA039A80), frame # 120697
+[2021.03.27-15.27.40:391][697]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001EA8A985C00), frame # 120697
+[2021.03.27-15.27.40:393][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.03.27-15.27.40:432][698]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.27-15.27.41:073][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.03.27-15.27.41:117][762]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonExampleMap453F5B2B49FBC976E997A6886C21EA49.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.03.27-15.27.42:237][762]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/FirstPersonExampleMap_BuiltDataD704594242FFABA2A56C989BCE5E86B3.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.03.27-15.27.42:258][762]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.27-15.27.42:258][762]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.03.27-15.27.42:258][762]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
