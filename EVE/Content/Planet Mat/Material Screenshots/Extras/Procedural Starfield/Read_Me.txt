@@ -1,0 +1,1 @@
+This post-process material barely works for sh**, but figured I'd include it for those who don't want to go to the trouble of making their own skybox.
