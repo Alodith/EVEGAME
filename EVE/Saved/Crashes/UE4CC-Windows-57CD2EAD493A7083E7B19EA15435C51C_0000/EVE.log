@@ -1,0 +1,853 @@
+﻿Log file open, 04/25/21 14:18:30
+LogInit: Display: Running engine for game: EVE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.837815
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.25-13.18.34:212][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.25-13.18.34:213][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:213][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:269][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-13.18.34:270][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.25-13.18.34:271][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.25-13.18.34:284][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-13.18.34:284][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.25-13.18.34:291][  0]LogHAL: Display: Platform has ~ 16 GB [17125937152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.25-13.18.34:291][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.25-13.18.34:300][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-13.18.34:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.25-13.18.34:301][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.25-13.18.34:314][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.25-13.18.34:314][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.25-13.18.34:314][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.25-13.18.34:314][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-13.18.34:334][  0]LogInit: Computer: DESKTOP-RHM9386
+[2021.04.25-13.18.34:334][  0]LogInit: User: Cameron
+[2021.04.25-13.18.34:334][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.25-13.18.34:334][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.25-13.18.34:335][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.25-13.18.34:335][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.25-13.18.34:335][  0]LogMemory: Process Physical Memory: 119.42 MB used, 119.43 MB peak
+[2021.04.25-13.18.34:335][  0]LogMemory: Process Virtual Memory: 101.59 MB used, 101.59 MB peak
+[2021.04.25-13.18.34:335][  0]LogMemory: Physical Memory: 11931.65 MB used,  4400.91 MB free, 16332.57 MB total
+[2021.04.25-13.18.34:335][  0]LogMemory: Virtual Memory: 5212.88 MB used,  134212512.00 MB free, 134217728.00 MB total
+[2021.04.25-13.18.34:341][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.25-13.18.35:059][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.25-13.18.35:099][  0]LogInit: Using OS detected language (en-GB).
+[2021.04.25-13.18.35:099][  0]LogInit: Using OS detected locale (en-GB).
+[2021.04.25-13.18.35:118][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.04.25-13.18.35:747][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.25-13.18.36:172][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.25-13.18.36:173][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.25-13.18.37:173][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.04.25-13.18.37:173][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.25-13.18.37:173][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.25-13.18.37:173][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.25-13.18.38:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.04.25-13.18.38:468][  0]LogD3D11RHI:       3955/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.25-13.18.38:471][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.25-13.18.38:471][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.25-13.18.38:471][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.25-13.18.38:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.25-13.18.38:681][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.25-13.18.38:688][  0]LogWindows: EnumDisplayDevices:
+[2021.04.25-13.18.38:688][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.04.25-13.18.38:688][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.04.25-13.18.38:689][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.04.25-13.18.38:689][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.04.25-13.18.38:689][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.25-13.18.38:689][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.04.25-13.18.38:689][  0]LogD3D11RHI:   Driver Version: 466.11 (internal:27.21.14.6611, unified:466.11)
+[2021.04.25-13.18.38:689][  0]LogD3D11RHI:      Driver Date: 4-12-2021
+[2021.04.25-13.18.38:690][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.04.25-13.18.38:776][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.25-13.18.38:777][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.25-13.18.38:777][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.25-13.18.40:239][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.25-13.18.42:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.25-13.18.43:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.25-13.18.43:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.25-13.18.43:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.25-13.18.43:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.25-13.18.44:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.25-13.18.44:271][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.25-13.18.44:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.25-13.18.44:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.25-13.18.44:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.25-13.18.44:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.25-13.18.44:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.25-13.18.44:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.25-13.18.44:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.25-13.18.44:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.25-13.18.45:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.25-13.18.45:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.25-13.18.45:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.25-13.18.45:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.25-13.18.45:456][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.25-13.18.46:061][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.25-13.18.48:866][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Intermediate/Shaders/WorkingDirectory/19548/).
+[2021.04.25-13.18.48:866][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/C74CEC61494306E9ABEF1E9E1815CBF4/'.
+[2021.04.25-13.18.48:902][  0]LogXGEController: Cleaning working directory: C:/Users/Cameron/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.25-13.18.48:902][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.25-13.18.48:915][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.25-13.18.48:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.25-13.19.00:560][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: Loaded boot cache 0.19s 79MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-13.19.00:750][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.25-13.19.00:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.25-13.19.00:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-13.19.00:809][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.25-13.19.00:810][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.25-13.19.00:810][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.25-13.19.00:810][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.25-13.19.01:381][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.25-13.19.01:728][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.25-13.19.02:864][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2021.04.25-13.19.09:776][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-13.19.10:923][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.25-13.19.10:923][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.25-13.19.10:923][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.25-13.19.10:923][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.25-13.19.10:923][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.25-13.19.11:495][  0]LogNetVersion: EVE 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 214089126)
+[2021.04.25-13.19.18:715][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000023F883C2F80), frame # 0
+[2021.04.25-13.19.18:715][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023F8835F740), frame # 0
+[2021.04.25-13.19.18:732][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023F883B5C00), frame # 0
+[2021.04.25-13.19.19:300][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.101526 seconds
+[2021.04.25-13.19.19:425][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.25-13.19.19:434][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.25-13.19.19:434][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.25-13.19.22:619][  0]LogPython: Using Python 2.7.14
+[2021.04.25-13.19.24:619][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.25-13.19.24:638][  0]LogUdpMessaging: Initializing bridge on interface 10.104.185.245:0 to multicast group 230.0.0.1:6666.
+[2021.04.25-13.19.24:638][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 10.104.185.245:0
+[2021.04.25-13.19.24:638][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageUnicastSocket (loopback: 1, ttl: 1)
+[2021.04.25-13.19.24:653][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageUnicastSocket (last error: 0)
+[2021.04.25-13.19.24:653][  0]LogUdpMessaging: Error: StartTransport failed to create unicast socket on 10.104.185.245:0
+[2021.04.25-13.19.26:280][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.26:280][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.26:331][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.26:350][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.26:379][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.28:621][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.25-13.19.28:705][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.25-13.19.28:705][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.25-13.19.29:084][  0]LogOcInput: OculusInput pre-init called
+[2021.04.25-13.19.32:170][  0]LogEngine: Initializing Engine...
+[2021.04.25-13.19.32:473][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.04.25-13.19.32:482][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.25-13.19.32:631][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2021.04.25-13.19.32:782][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.041 s
+[2021.04.25-13.19.33:281][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.25-13.19.33:956][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.25-13.19.33:956][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023F9D6CFC00), frame # 0
+[2021.04.25-13.19.33:956][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023F9D745580), frame # 0
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.19.34:179][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.19.34:179][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.19.34:181][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.19.34:181][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.19.34:239][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.19.34:239][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.19.34:301][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.25-13.19.34:337][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.19.34:393][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.19.34:407][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.19.34:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.19.34:424][  0]LogInit: FAudioDevice initialized.
+[2021.04.25-13.19.34:442][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.25-13.19.34:565][  0]LogDerivedDataCache: Saved boot cache 0.12s 79MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.25-13.19.34:568][  0]LogInit: Texture streaming: Enabled
+[2021.04.25-13.19.34:785][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.25-13.19.34:785][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.25-13.19.34:848][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.25-13.19.35:246][  0]LogInit: Transaction tracking system initialized
+[2021.04.25-13.19.35:499][  0]BlueprintLog: New page: Editor Load
+[2021.04.25-13.19.36:357][  0]LocalizationService: Localization service is disabled
+[2021.04.25-13.19.39:433][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.25-13.19.39:461][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.25-13.19.40:601][  0]LogFileCache: Scanning file cache for directory 'D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/' took 0.13s
+[2021.04.25-13.19.43:158][  0]SourceControl: Source control is disabled
+[2021.04.25-13.19.43:174][  0]LogUnrealEdMisc: Loading editor; pre map load, took 86.988
+[2021.04.25-13.19.43:200][  0]Cmd: MAP LOAD FILE="../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-13.19.43:231][  0]LightingResults: New page: Lighting Build
+[2021.04.25-13.19.43:629][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.19.43:659][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.19.43:698][  0]MapCheck: New page: Map Check
+[2021.04.25-13.19.43:698][  0]LightingResults: New page: Lighting Build
+[2021.04.25-13.19.44:216][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023F9D6CFC00), frame # 0
+[2021.04.25-13.19.44:216][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023F9D745580), frame # 0
+[2021.04.25-13.19.44:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.04.25-13.19.48:129][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.25-13.19.48:129][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023FA5D4BE00), frame # 0
+[2021.04.25-13.19.48:129][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023FA5E14A40), frame # 0
+[2021.04.25-13.19.49:148][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-13.19.49:349][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.04.25-13.19.49:365][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-13.19.49:366][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.502ms to complete.
+[2021.04.25-13.19.49:366][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 6.180
+[2021.04.25-13.19.51:349][  0]LogUnrealEdMisc: Total Editor Startup Time, took 95.163
+[2021.04.25-13.19.52:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.19.52:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.19.52:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.19.52:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.19.52:381][  0]LogCollectionManager: Loaded 0 collections in 0.000983 seconds
+[2021.04.25-13.19.52:524][  0]LogFileCache: Scanning file cache for directory 'D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Saved/Collections/' took 0.00s
+[2021.04.25-13.19.52:524][  0]LogFileCache: Scanning file cache for directory 'D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/Developers/Cameron/Collections/' took 0.00s
+[2021.04.25-13.19.52:524][  0]LogFileCache: Scanning file cache for directory 'D:/Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/Collections/' took 0.00s
+[2021.04.25-13.19.52:524][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3619 classes and 865 folders.
+[2021.04.25-13.19.52:761][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.25-13.19.53:462][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.25-13.19.53:565][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.04.25-13.19.54:366][  0]LogSlate: Took 0.013030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.25-13.19.54:411][  0]LogSlate: Took 0.008356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.25-13.19.54:542][  0]LogSlate: Took 0.007556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.25-13.19.54:986][  0]LogRenderer: Reallocating scene render targets to support 1192x452 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-13.19.55:628][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.25-13.19.55:628][  0]LogLoad: (Engine Initialization) Total time: 99.44 seconds
+[2021.04.25-13.19.55:628][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.25-13.19.56:366][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.25-13.19.56:632][  0]LogSlate: Took 0.012017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.25-13.19.58:164][  3]LogAssetRegistry: Asset discovery search completed in 55.3196 seconds
+[2021.04.25-13.19.58:232][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008166 seconds (updated 0 objects)
+[2021.04.25-13.25.15:651][215]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.25-13.25.20:213][215]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2021.04.25-13.25.20:281][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.25-13.25.20:291][215]Cmd: MAP LOAD FILE="../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-13.25.20:291][215]LightingResults: New page: Lighting Build
+[2021.04.25-13.25.20:291][215]LoadErrors: New page: Loading map: Menu.umap
+[2021.04.25-13.25.20:360][215]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.25.20:385][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.25.20:399][215]MapCheck: New page: Map Check
+[2021.04.25-13.25.20:400][215]LightingResults: New page: Lighting Build
+[2021.04.25-13.25.20:573][215]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023FA5D4BE00), frame # 2215
+[2021.04.25-13.25.20:573][215]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023FA5E14A40), frame # 2215
+[2021.04.25-13.25.20:592][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.25-13.25.20:994][215]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-13.25.20:994][215]LogAIModule: Creating AISystem for world Menu
+[2021.04.25-13.25.20:994][215]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023FFD44CC00), frame # 2215
+[2021.04.25-13.25.21:011][215]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023FA8D46700), frame # 2215
+[2021.04.25-13.25.21:067][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.25-13.25.21:091][215]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-13.25.21:091][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.04.25-13.25.21:091][215]LogFileHelpers: Loading map 'Menu' took 0.801
+[2021.04.25-13.25.23:158][417]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.25-13.25.23:337][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.25.23:345][417]PIE: New page: PIE session: Menu (25 Apr 2021, 15:25:23)
+[2021.04.25-13.25.23:416][417]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.25-13.25.23:424][417]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.25-13.25.23:442][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2021.04.25-13.25.23:591][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148983s)
+[2021.04.25-13.25.23:603][417]LogAIModule: Creating AISystem for world Menu
+[2021.04.25-13.25.23:603][417]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023FFF850400), frame # 2417
+[2021.04.25-13.25.23:603][417]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023FA8C9B9C0), frame # 2417
+[2021.04.25-13.25.23:604][417]LogPlayLevel: PIE: World Init took: (0.012610s)
+[2021.04.25-13.25.23:604][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.161990s)
+[2021.04.25-13.25.23:614][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.25.23:635][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.25.23:635][417]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.25.23:635][417]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.25.23:641][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.25.23:641][417]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.25.23:682][417]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.25-13.25.23:682][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.25.23:682][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.25.23:682][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.25.23:682][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.25.23:693][417]LogInit: FAudioDevice initialized.
+[2021.04.25-13.25.23:810][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.25.23:827][417]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-13.25.24:036][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.04.25-14.25.24
+[2021.04.25-13.25.24:052][417]LogWorld: Bringing up level for play took: 0.053506
+[2021.04.25-13.25.24:052][417]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.04.25-13.25.24:197][417]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.25-13.25.24:462][417]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.04.25-13.25.24:579][417]PIE: Server logged in
+[2021.04.25-13.25.24:580][417]PIE: Play in editor total start time 1.409 seconds.
+[2021.04.25-13.25.24:815][418]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-13.25.27:298][699]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:283).
+[2021.04.25-13.25.29:014][884]LogNet: Browse: /Game/Maps/PlanetLevel
+[2021.04.25-13.25.29:033][884]LogLoad: LoadMap: /Game/Maps/PlanetLevel
+[2021.04.25-13.25.29:033][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2021.04.25-13.25.29:063][884]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.25.29:066][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.25.29:140][884]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023FFF850400), frame # 2884
+[2021.04.25-13.25.29:140][884]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023FA8C9B9C0), frame # 2884
+[2021.04.25-13.25.29:147][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.25-13.25.29:617][884]LogLinker: Warning: Asset '../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/MSPresets/Foliage_Material/Foliage_Material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.04.25-13.25.35:221][884]LogAIModule: Creating AISystem for world PlanetLevel
+[2021.04.25-13.25.35:221][884]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002405ED58800), frame # 2884
+[2021.04.25-13.25.35:221][884]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002405ED1FB00), frame # 2884
+[2021.04.25-13.25.35:222][884]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-13.25.35:286][884]LogMaterial: Warning: Material /Game/MSPresets/Foliage_Material/Foliage_Material.Foliage_Material missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2021.04.25-13.25.35:286][884]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2021.04.25-13.25.35:309][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PlanetLevel.PlanetLevel up for play (max tick rate 0) at 2021.04.25-14.25.35
+[2021.04.25-13.25.35:309][884]LogWorld: Bringing up level for play took: 0.087068
+[2021.04.25-13.25.35:411][884]LogLoad: Took 6.377321 seconds to LoadMap(/Game/Maps/PlanetLevel)
+[2021.04.25-13.25.45:649][372]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.04.25-13.25.46:434][416]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.04.25-13.25.46:728][435]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2021.04.25-13.25.47:567][474]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2021.04.25-13.26.43:127][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.26.43:127][213]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PlanetLevel
+[2021.04.25-13.26.43:129][213]LogSlate: Window 'EVE Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.25-13.26.43:144][213]LogWorld: UWorld::CleanupWorld for PlanetLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.26.43:159][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.26.43:196][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-13.26.43:210][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.26.43:459][213]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002405ED58800), frame # 7213
+[2021.04.25-13.26.43:459][213]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002405ED1FB00), frame # 7213
+[2021.04.25-13.26.43:460][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.04.25-13.26.43:499][214]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.04.25-13.26.51:672][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Mine.Mine
+[2021.04.25-13.26.51:684][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.25-13.26.51:687][441]Cmd: MAP LOAD FILE="../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/Maps/Mine.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-13.26.51:687][441]LightingResults: New page: Lighting Build
+[2021.04.25-13.26.51:687][441]LoadErrors: New page: Loading map: Mine.umap
+[2021.04.25-13.26.51:694][441]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.26.51:695][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.26.51:695][441]MapCheck: New page: Map Check
+[2021.04.25-13.26.51:695][441]LightingResults: New page: Lighting Build
+[2021.04.25-13.26.51:708][441]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023FA8D46700), frame # 7441
+[2021.04.25-13.26.51:708][441]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023FFD44CC00), frame # 7441
+[2021.04.25-13.26.51:710][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.25-13.26.51:798][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-13.26.51:798][441]LogAIModule: Creating AISystem for world Mine
+[2021.04.25-13.26.51:798][441]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002408BBBF800), frame # 7441
+[2021.04.25-13.26.51:798][441]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002405EC8B9C0), frame # 7441
+[2021.04.25-13.26.51:811][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.25-13.26.51:834][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-13.26.51:834][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.04.25-13.26.51:834][441]LogFileHelpers: Loading map 'Mine' took 0.148
+[2021.04.25-13.26.53:200][581]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.25-13.26.53:214][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-13.26.53:214][581]PIE: New page: PIE session: Mine (25 Apr 2021, 15:26:53)
+[2021.04.25-13.26.53:214][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mine
+[2021.04.25-13.26.53:221][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007227s)
+[2021.04.25-13.26.53:222][581]LogAIModule: Creating AISystem for world Mine
+[2021.04.25-13.26.53:222][581]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023FA5D39800), frame # 7581
+[2021.04.25-13.26.53:222][581]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023FFD194900), frame # 7581
+[2021.04.25-13.26.53:222][581]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2021.04.25-13.26.53:222][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mine.Mine to /Game/Maps/UEDPIE_0_Mine.Mine (0.008239s)
+[2021.04.25-13.26.53:233][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.25-13.26.53:239][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-13.26.53:239][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-13.26.53:239][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-13.26.53:239][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-13.26.53:239][581]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-13.26.53:240][581]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-13.26.53:240][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-13.26.53:240][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-13.26.53:240][581]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-13.26.53:240][581]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-13.26.53:246][581]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-13.26.53:246][581]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-13.26.53:286][581]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.25-13.26.53:286][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-13.26.53:286][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-13.26.53:287][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-13.26.53:287][581]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-13.26.53:297][581]LogInit: FAudioDevice initialized.
+[2021.04.25-13.26.53:346][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.26.53:346][581]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-13.26.53:349][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mine.Mine up for play (max tick rate 0) at 2021.04.25-14.26.53
+[2021.04.25-13.26.53:349][581]LogWorld: Bringing up level for play took: 0.002495
+[2021.04.25-13.26.53:349][581]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.25-13.26.53:370][581]PIE: Server logged in
+[2021.04.25-13.26.53:371][581]PIE: Play in editor total start time 0.158 seconds.
+[2021.04.25-13.27.20:173][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-13.27.20:173][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mine
+[2021.04.25-13.27.20:173][791]LogSlate: Window 'EVE Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.25-13.27.20:178][791]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.27.20:179][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.27.20:187][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-13.27.20:188][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.27.20:213][791]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023FFD194900), frame # 10791
+[2021.04.25-13.27.20:213][791]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023FA5D39800), frame # 10791
+[2021.04.25-13.27.20:214][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.25-13.27.20:257][794]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.04.25-13.27.24:349][218]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Credits.Credits
+[2021.04.25-13.27.24:359][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.25-13.27.24:361][218]Cmd: MAP LOAD FILE="../../../../../../Uni Shirt/EVE/EVECollaborative/EVEGAME/EVE/EVEGAME/EVE/Content/Maps/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-13.27.24:361][218]LightingResults: New page: Lighting Build
+[2021.04.25-13.27.24:361][218]LoadErrors: New page: Loading map: Credits.umap
+[2021.04.25-13.27.24:363][218]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-13.27.24:363][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-13.27.24:363][218]MapCheck: New page: Map Check
+[2021.04.25-13.27.24:363][218]LightingResults: New page: Lighting Build
+[2021.04.25-13.27.24:373][218]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002405EC8B9C0), frame # 11218
+[2021.04.25-13.27.24:373][218]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002408BBBF800), frame # 11218
+[2021.04.25-13.27.24:374][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.25-13.27.24:376][218]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.04.25-13.27.24:455][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-13.27.24:455][218]LogAIModule: Creating AISystem for world Credits
+[2021.04.25-13.27.24:455][218]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023FFCC2D400), frame # 11218
+[2021.04.25-13.27.24:455][218]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023FA8846FC0), frame # 11218
+[2021.04.25-13.27.24:466][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.25-13.27.24:490][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-13.27.24:490][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.04.25-13.27.24:490][218]LogFileHelpers: Loading map 'Credits' took 0.129
+[2021.04.25-13.27.24:536][219]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
