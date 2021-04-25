@@ -1,0 +1,1696 @@
+﻿Log file open, 04/25/21 17:49:10
+LogInit: Display: Running engine for game: EVE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218723
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=morgangb -epicuserid=a39b86c0ab2b40979282c7bdc5b4eac5 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Unreal Engine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.25-16.49.11:044][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.25-16.49.11:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:052][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-16.49.11:052][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.25-16.49.11:053][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.25-16.49.11:054][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-16.49.11:054][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.25-16.49.11:054][  0]LogHAL: Display: Platform has ~ 24 GB [25711693824 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.25-16.49.11:054][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.25-16.49.11:054][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.25-16.49.11:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Scalability.ini]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.25-16.49.11:055][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.25-16.49.11:056][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.25-16.49.11:056][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.25-16.49.11:056][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.25-16.49.11:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Config/Windows/Engine.ini]
+[2021.04.25-16.49.11:056][  0]LogInit: Computer: DESKTOP-A545EPO
+[2021.04.25-16.49.11:057][  0]LogInit: User: morga
+[2021.04.25-16.49.11:057][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.25-16.49.11:057][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.25-16.49.11:057][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2021.04.25-16.49.11:057][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.25-16.49.11:057][  0]LogMemory: Process Physical Memory: 118.04 MB used, 118.04 MB peak
+[2021.04.25-16.49.11:057][  0]LogMemory: Process Virtual Memory: 110.77 MB used, 110.77 MB peak
+[2021.04.25-16.49.11:057][  0]LogMemory: Physical Memory: 8106.68 MB used,  16413.90 MB free, 24520.58 MB total
+[2021.04.25-16.49.11:057][  0]LogMemory: Virtual Memory: 5182.22 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.04.25-16.49.11:063][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.25-16.49.11:122][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.25-16.49.11:123][  0]LogInit: Using OS detected language (en-GB).
+[2021.04.25-16.49.11:123][  0]LogInit: Using OS detected locale (en-GB).
+[2021.04.25-16.49.11:127][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.04.25-16.49.11:355][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.25-16.49.11:394][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.25-16.49.11:394][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.25-16.49.11:623][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.04.25-16.49.11:623][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.25-16.49.11:623][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.25-16.49.11:623][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.25-16.49.11:754][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2021.04.25-16.49.11:754][  0]LogD3D11RHI:       4053/0/12260 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.25-16.49.11:757][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.25-16.49.11:757][  0]LogD3D11RHI:       0/0/12260 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.25-16.49.11:757][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.25-16.49.11:764][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.25-16.49.11:765][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.25-16.49.11:765][  0]LogWindows: EnumDisplayDevices:
+[2021.04.25-16.49.11:765][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2021.04.25-16.49.11:765][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2021.04.25-16.49.11:765][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.04.25-16.49.11:766][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.04.25-16.49.11:766][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.25-16.49.11:766][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2021.04.25-16.49.11:766][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.04.25-16.49.11:766][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.04.25-16.49.11:766][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.04.25-16.49.11:866][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.25-16.49.11:866][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.25-16.49.11:866][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.25-16.49.11:896][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.25-16.49.12:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.25-16.49.12:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.25-16.49.12:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.25-16.49.12:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.25-16.49.12:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.25-16.49.12:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.25-16.49.12:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.25-16.49.12:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.25-16.49.12:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.25-16.49.12:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.25-16.49.12:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.25-16.49.12:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.25-16.49.12:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.25-16.49.12:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.25-16.49.12:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.25-16.49.12:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.25-16.49.12:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.25-16.49.12:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.25-16.49.12:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.25-16.49.12:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.25-16.49.12:682][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.25-16.49.12:754][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Intermediate/Shaders/WorkingDirectory/7452/).
+[2021.04.25-16.49.12:755][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/morga/AppData/Local/Temp/UnrealShaderWorkingDir/CE506AB646F7ED58AE8171AD9E855890/'.
+[2021.04.25-16.49.12:755][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.25-16.49.12:756][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.25-16.49.12:756][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.25-16.49.13:686][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/morga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/morga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-16.49.13:756][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.25-16.49.13:770][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.25-16.49.13:770][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.25-16.49.13:770][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.25-16.49.13:771][  0]LogDerivedDataCache: Using Local data cache path C:/Users/morga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.25-16.49.13:771][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.25-16.49.13:771][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.25-16.49.13:836][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.25-16.49.13:836][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.25-16.49.13:869][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2021.04.25-16.49.14:172][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.25-16.49.14:312][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.25-16.49.14:312][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.25-16.49.14:312][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.25-16.49.14:312][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.25-16.49.14:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.25-16.49.14:336][  0]LogNetVersion: EVE 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 214089126)
+[2021.04.25-16.49.14:909][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001E8512A5B80), frame # 0
+[2021.04.25-16.49.14:909][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8510D3B00), frame # 0
+[2021.04.25-16.49.14:910][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E85118DE00), frame # 0
+[2021.04.25-16.49.14:985][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.067543 seconds
+[2021.04.25-16.49.14:992][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.25-16.49.14:992][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.25-16.49.14:992][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.25-16.49.15:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.25-16.49.15:428][  0]LogUdpMessaging: Initializing bridge on interface 10.104.185.245:0 to multicast group 230.0.0.1:6666.
+[2021.04.25-16.49.15:428][  0]FUdpSocketBuilder: Failed to bind UdpMessageUnicastSocket to 10.104.185.245:0
+[2021.04.25-16.49.15:428][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageUnicastSocket (loopback: 1, ttl: 1)
+[2021.04.25-16.49.15:428][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageUnicastSocket (last error: 0)
+[2021.04.25-16.49.15:428][  0]LogUdpMessaging: Error: StartTransport failed to create unicast socket on 10.104.185.245:0
+[2021.04.25-16.49.15:539][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.15:540][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.15:543][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.15:547][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.15:554][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.15:884][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.25-16.49.15:907][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.25-16.49.15:907][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.25-16.49.15:971][  0]LogOcInput: OculusInput pre-init called
+[2021.04.25-16.49.16:275][  0]LogEngine: Initializing Engine...
+[2021.04.25-16.49.16:325][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.04.25-16.49.16:325][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.25-16.49.16:326][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2021.04.25-16.49.16:327][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.25-16.49.16:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.25-16.49.16:492][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.25-16.49.16:492][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E85A103C00), frame # 0
+[2021.04.25-16.49.16:492][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E85A0FFB00), frame # 0
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-16.49.16:512][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-16.49.16:512][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-16.49.16:512][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-16.49.16:528][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-16.49.16:528][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-16.49.16:573][  0]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-16.49.16:577][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-16.49.16:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-16.49.16:579][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-16.49.16:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-16.49.16:581][  0]LogInit: FAudioDevice initialized.
+[2021.04.25-16.49.16:581][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.25-16.49.16:666][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/morga/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.25-16.49.16:667][  0]LogInit: Texture streaming: Enabled
+[2021.04.25-16.49.16:684][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.25-16.49.16:684][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.25-16.49.16:686][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.25-16.49.16:737][  0]LogInit: Transaction tracking system initialized
+[2021.04.25-16.49.16:759][  0]BlueprintLog: New page: Editor Load
+[2021.04.25-16.49.16:828][  0]LocalizationService: Localization service is disabled
+[2021.04.25-16.49.16:993][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.25-16.49.16:993][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.25-16.49.17:170][  0]LogFileCache: Scanning file cache for directory 'C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Content/' took 0.10s
+[2021.04.25-16.49.17:436][  0]SourceControl: Source control is disabled
+[2021.04.25-16.49.17:436][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.940
+[2021.04.25-16.49.17:436][  0]Cmd: MAP LOAD FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-16.49.17:437][  0]LightingResults: New page: Lighting Build
+[2021.04.25-16.49.17:438][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-16.49.17:438][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-16.49.17:438][  0]MapCheck: New page: Map Check
+[2021.04.25-16.49.17:438][  0]LightingResults: New page: Lighting Build
+[2021.04.25-16.49.17:446][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E85A103C00), frame # 0
+[2021.04.25-16.49.17:446][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E85A0FFB00), frame # 0
+[2021.04.25-16.49.17:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.25-16.49.18:049][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.25-16.49.18:050][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8426B7E00), frame # 0
+[2021.04.25-16.49.18:050][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8427C1440), frame # 0
+[2021.04.25-16.49.18:085][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-16.49.18:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.25-16.49.18:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-16.49.18:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2021.04.25-16.49.18:104][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.668
+[2021.04.25-16.49.18:106][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.610
+[2021.04.25-16.49.18:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.49.18:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.49.18:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.49.18:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.49.18:288][  0]LogCollectionManager: Loaded 0 collections in 0.001973 seconds
+[2021.04.25-16.49.18:307][  0]LogFileCache: Scanning file cache for directory 'C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Collections/' took 0.00s
+[2021.04.25-16.49.18:307][  0]LogFileCache: Scanning file cache for directory 'C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Developers/morga/Collections/' took 0.00s
+[2021.04.25-16.49.18:307][  0]LogFileCache: Scanning file cache for directory 'C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Collections/' took 0.00s
+[2021.04.25-16.49.18:307][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 3600 classes and 858 folders.
+[2021.04.25-16.49.18:310][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.25-16.49.18:401][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.25-16.49.18:403][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.25-16.49.18:547][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.25-16.49.18:549][  0]LogSlate: Took 0.000516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.25-16.49.18:644][  0]LogRenderer: Reallocating scene render targets to support 1016x400 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-16.49.18:796][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.25-16.49.18:797][  0]LogLoad: (Engine Initialization) Total time: 10.30 seconds
+[2021.04.25-16.49.18:797][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.25-16.49.18:905][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.25-16.49.19:026][  2]LogAssetRegistry: Asset discovery search completed in 5.1591 seconds
+[2021.04.25-16.49.19:033][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.25-16.49.19:841][ 63]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.25-16.49.23:928][377]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/morga/Documents/GitHub/EVEGAME/EVE/Content/' took 5.07s
+[2021.04.25-16.49.36:303][744]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.25-16.49.36:311][744]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.25-16.51.17:948][ 94]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.04.25-16.51.17:948][ 94]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.04.25-16.51.17:948][ 94]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X64)
+[2021.04.25-16.51.17:976][ 94]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Storage.Storage
+[2021.04.25-16.51.17:988][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.25-16.51.17:992][ 94]Cmd: MAP LOAD FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-16.51.17:992][ 94]LightingResults: New page: Lighting Build
+[2021.04.25-16.51.17:993][ 94]LoadErrors: New page: Loading map: Storage.umap
+[2021.04.25-16.51.17:998][ 94]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-16.51.17:998][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-16.51.17:998][ 94]MapCheck: New page: Map Check
+[2021.04.25-16.51.17:998][ 94]LightingResults: New page: Lighting Build
+[2021.04.25-16.51.18:010][ 94]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8426B7E00), frame # 4094
+[2021.04.25-16.51.18:010][ 94]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8427C1440), frame # 4094
+[2021.04.25-16.51.18:011][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.04.25-16.51.18:130][ 94]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-16.51.18:130][ 94]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-16.51.18:131][ 94]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E87E9C3200), frame # 4094
+[2021.04.25-16.51.18:131][ 94]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E87AFBD580), frame # 4094
+[2021.04.25-16.51.18:148][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.25-16.51.18:182][ 94]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-16.51.18:184][ 94]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.01ms to complete.
+[2021.04.25-16.51.18:184][ 94]LogFileHelpers: Loading map 'Storage' took 0.192
+[2021.04.25-16.51.29:528][246]LogRenderer: Reallocating scene render targets to support 1016x408 Format 10 NumSamples 1 (Frame:1179).
+[2021.04.25-16.51.29:607][248]LogRenderer: Reallocating scene render targets to support 1016x492 Format 10 NumSamples 1 (Frame:1181).
+[2021.04.25-16.51.29:673][250]LogRenderer: Reallocating scene render targets to support 1016x552 Format 10 NumSamples 1 (Frame:1183).
+[2021.04.25-16.51.29:739][252]LogRenderer: Reallocating scene render targets to support 1016x568 Format 10 NumSamples 1 (Frame:1185).
+[2021.04.25-16.51.33:199][586]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-16.51.33:217][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-16.51.33:217][586]PIE: New page: PIE session: Storage (25 Apr 2021, 18:51:33)
+[2021.04.25-16.51.33:218][586]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.25-16.51.33:219][586]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.25-16.51.33:219][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-16.51.33:239][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019681s)
+[2021.04.25-16.51.33:240][586]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-16.51.33:240][586]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E864BBD600), frame # 5586
+[2021.04.25-16.51.33:240][586]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E87B13A200), frame # 5586
+[2021.04.25-16.51.33:240][586]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2021.04.25-16.51.33:240][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.021279s)
+[2021.04.25-16.51.33:250][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-16.51.33:257][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-16.51.33:257][586]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-16.51.33:257][586]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-16.51.33:262][586]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-16.51.33:262][586]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-16.51.33:285][586]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-16.51.33:285][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-16.51.33:285][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-16.51.33:285][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-16.51.33:286][586]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-16.51.33:299][586]LogInit: FAudioDevice initialized.
+[2021.04.25-16.51.33:310][586]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-16.51.33:320][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-17.51.33
+[2021.04.25-16.51.33:321][586]LogWorld: Bringing up level for play took: 0.009726
+[2021.04.25-16.51.33:321][586]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.04.25-16.51.33:325][586]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.25-16.51.33:327][586]PIE: Server logged in
+[2021.04.25-16.51.33:329][586]PIE: Play in editor total start time 0.112 seconds.
+[2021.04.25-16.51.42:497][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.51.42:497][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-16.51.42:498][620]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-16.51.42:499][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-16.51.42:510][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-16.51.42:512][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-16.51.42:542][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-16.51.42:544][620]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E864BBD600), frame # 6620
+[2021.04.25-16.51.42:544][620]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E87B13A200), frame # 6620
+[2021.04.25-16.51.42:545][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.25-16.51.42:581][621]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.04.25-16.52.33:895][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Crate)
+[2021.04.25-17.57.37:618][229]LogActorFactory: Actor Factory created SM_Light_A
+[2021.04.25-17.57.38:462][293]LogActorFactory: Actor Factory created SM_Light_A
+[2021.04.25-17.57.57:451][796]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ModSci_Engineer/Materials/Lights/MI_Light_White.MI_Light_White
+[2021.04.25-17.57.57:874][796]LogRenderer: Reallocating scene render targets to support 1124x932 Format 10 NumSamples 1 (Frame:1).
+[2021.04.25-17.58.06:882][348]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.25-17.58.08:184][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.25-17.58.08:196][431]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.25-17.58.08:661][431]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.25-17.58.08:661][431]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.25-17.58.08:665][431]TextureStreamingBuild: Display: Compiling optional shaders took 0.473 seconds.
+[2021.04.25-17.58.08:680][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.25-17.58.08:713][431]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/MI_Light_WhiteEF2730094AB41950F898F294C710F5DF.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/ModSci_Engineer/Materials/Lights/MI_Light_White.uasset'
+[2021.04.25-17.58.08:725][431]AssetCheck: New page: Asset Save: MI_Light_White
+[2021.04.25-17.58.08:725][431]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ModSci_Engineer/Materials/Lights/MI_Light_White.MI_Light_White
+[2021.04.25-17.58.09:441][484]LogSlate: Window 'MI_Light_White' being destroyed
+[2021.04.25-17.58.09:448][484]LogSlate: Window 'MI_Light_White' being destroyed
+[2021.04.25-17.58.09:482][484]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-17.58.09:482][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-17.58.26:138][838]LogActorFactory: Actor Factory created SM_Scifi_Pipe_01_4m
+[2021.04.25-17.58.26:676][881]LogActorFactory: Actor Factory created SM_Scifi_Pipe_01_4m
+[2021.04.25-17.59.00:067][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorPanel_A25)
+[2021.04.25-17.59.00:959][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m)
+[2021.04.25-17.59.01:598][597]Cmd: EDIT COPY
+[2021.04.25-17.59.01:966][630]Cmd: EDIT PASTE
+[2021.04.25-17.59.06:521][ 23]Cmd: EDIT COPY
+[2021.04.25-17.59.06:813][ 40]Cmd: EDIT PASTE
+[2021.04.25-17.59.09:218][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m)
+[2021.04.25-17.59.20:959][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m3)
+[2021.04.25-17.59.23:033][257]Cmd: EDIT COPY
+[2021.04.25-17.59.24:440][366]Cmd: EDIT PASTE
+[2021.04.25-17.59.31:075][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-17.59.56:019][787]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_12m
+[2021.04.25-17.59.57:281][868]LogActorFactory: Actor Factory created SM_Scifi_Wall_03_12m
+[2021.04.25-18.00.02:412][280]Cmd: DELETE
+[2021.04.25-18.00.02:412][280]Cmd: ACTOR DELETE
+[2021.04.25-18.00.02:419][280]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.25-18.00.02:428][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.25-18.00.02:433][280]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.04.25-18.00.05:712][573]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_4m
+[2021.04.25-18.00.06:772][665]LogActorFactory: Actor Factory created SM_Scifi_Wall_05_4m
+[2021.04.25-18.00.15:315][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.00.15:803][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.00.17:535][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.00.23:140][819]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.25-18.00.47:724][557]LogPhysics: Warning: Scale for /Game/Maps/Storage.Storage:PersistentLevel.SM_Scifi_Wall_05_4m_14.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.150 Y=0.000 Z=0.100
+[2021.04.25-18.00.47:724][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.25-18.00.47:724][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.25-18.00.47:724][557]LogPhysics: Warning: Scale for /Game/Maps/Storage.Storage:PersistentLevel.SM_Scifi_Wall_05_4m_14.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.150 Y=0.000 Z=0.100
+[2021.04.25-18.00.47:725][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.04.25-18.00.47:725][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.04.25-18.01.17:350][864]Cmd: EDIT COPY
+[2021.04.25-18.01.17:686][892]Cmd: EDIT PASTE
+[2021.04.25-18.01.29:879][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.01.45:190][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m2)
+[2021.04.25-18.02.13:535][372]Cmd: EDIT COPY
+[2021.04.25-18.02.14:350][420]Cmd: EDIT PASTE
+[2021.04.25-18.02.38:287][346]Cmd: EDIT COPY
+[2021.04.25-18.02.38:975][402]Cmd: EDIT PASTE
+[2021.04.25-18.02.54:941][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.02.55:822][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m4)
+[2021.04.25-18.02.59:910][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m3)
+[2021.04.25-18.03.01:176][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.03.10:363][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m3)
+[2021.04.25-18.03.11:009][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m4)
+[2021.04.25-18.03.12:478][999]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m)
+[2021.04.25-18.03.13:167][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m2)
+[2021.04.25-18.03.13:706][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m3)
+[2021.04.25-18.03.14:895][183]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m2)
+[2021.04.25-18.03.15:790][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.03.16:720][322]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m4)
+[2021.04.25-18.03.53:615][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.04.01:812][598]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FloorPanel_A11)
+[2021.04.25-18.04.04:529][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.04.18:947][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.04.18:958][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.04.25-18.04.19:065][658]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage005CCC24471BC17E92C1F7AE97FAA226.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.04.19:101][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.04.19:120][658]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData61EB699C4D6BC40602AEFFAE5B81DE06.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.04.19:136][658]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.04.19:136][658]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.04.19:136][658]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.04.31:175][404]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Storage.Storage:PersistentLevel.Storage
+[2021.04.25-18.04.31:452][404]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.04.25-18.04.32:650][404]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.25-18.04.41:195][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m3)
+[2021.04.25-18.04.43:330][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.04.44:452][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m3)
+[2021.04.25-18.04.45:023][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m4)
+[2021.04.25-18.04.45:474][184]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m)
+[2021.04.25-18.04.45:869][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Pipe_01_4m2)
+[2021.04.25-18.04.46:812][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m3)
+[2021.04.25-18.04.47:498][310]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m4)
+[2021.04.25-18.04.48:938][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m2)
+[2021.04.25-18.04.49:918][466]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Scifi_Wall_05_4m)
+[2021.04.25-18.05.08:224][720]EditorErrors: New page: Actor attachment
+[2021.04.25-18.05.11:451][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.05.11:477][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.25-18.05.11:580][933]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage0344619748E617B896A222BBB2DBC492.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.05.11:613][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.05.11:627][933]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataCD9133F04C6E464845527FB0DA5112AC.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.05.11:646][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.05.11:646][933]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.05.11:646][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.05.19:163][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.05.19:188][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.25-18.05.19:292][393]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage26AF81304DB19260FCA48A88EE983122.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.05.19:325][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.05.19:339][393]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataF0CDDFB04A3A732EE905DEA8B2100140.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.05.19:358][393]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.05.19:358][393]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.05.19:358][393]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.05.57:597][600]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.25-18.06.33:212][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.06.33:241][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.25-18.06.33:347][640]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageC9B9276A465983D87CFB07979E957F20.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.06.33:379][640]LogFileHelpers: Saving map 'Storage' took 0.167
+[2021.04.25-18.06.33:392][640]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.06.33:392][640]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.06.40:097][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.06.40:123][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.04.25-18.06.40:227][ 60]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage74069BE045D0B6EEC5D9DBA06F802464.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.06.40:260][ 60]LogFileHelpers: Saving map 'Storage' took 0.163
+[2021.04.25-18.06.40:272][ 60]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.06.40:272][ 60]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.07.41:884][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.07.41:909][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.25-18.07.42:017][184]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage738405D749BEC7765FDAABBDB3974B24.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.07.42:049][184]LogFileHelpers: Saving map 'Storage' took 0.165
+[2021.04.25-18.07.42:062][184]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.07.42:062][184]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.07.44:042][302]BlueprintLog: New page: Compile Storage
+[2021.04.25-18.07.44:070][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.25-18.07.54:877][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.07.54:901][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.04.25-18.07.55:005][ 25]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage5CE074034FF9C748984BCA99BA8899F4.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.07.55:038][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.07.55:052][ 25]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData98E621D941B069048232A2957BAE33B5.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.07.55:070][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.07.55:070][ 25]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.07.55:070][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.08.08:104][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.08.08:126][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.25-18.08.08:232][677]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage77223B2A46E5FE94845522926133C078.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.08.08:266][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.08.08:280][677]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData2F625CE6416D2F708C5A29BF7A226548.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.08.08:300][677]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.08.08:300][677]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.08.08:300][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.08.08:997][725]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.08.09:020][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.08.09:020][725]PIE: New page: PIE session: Storage (25 Apr 2021, 20:08:09)
+[2021.04.25-18.08.09:020][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.08.09:040][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019490s)
+[2021.04.25-18.08.09:041][725]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.08.09:041][725]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8B8615E00), frame # 68725
+[2021.04.25-18.08.09:041][725]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E88C4A1940), frame # 68725
+[2021.04.25-18.08.09:041][725]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2021.04.25-18.08.09:041][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.021060s)
+[2021.04.25-18.08.09:061][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.08.09:065][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.08.09:065][725]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.08.09:065][725]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.08.09:071][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.08.09:071][725]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.08.09:089][725]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.08.09:090][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.08.09:090][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.08.09:090][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.08.09:090][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.08.09:104][725]LogInit: FAudioDevice initialized.
+[2021.04.25-18.08.09:113][725]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.08.09:124][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.08.09
+[2021.04.25-18.08.09:124][725]LogWorld: Bringing up level for play took: 0.010575
+[2021.04.25-18.08.09:124][725]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.25-18.08.09:129][725]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage'!
+[2021.04.25-18.08.09:129][725]PIE: Server logged in
+[2021.04.25-18.08.09:130][725]PIE: Play in editor total start time 0.115 seconds.
+[2021.04.25-18.08.11:395][897]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.11:396][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.12:108][956]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.12:108][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.12:549][994]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.12:549][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.12:820][ 17]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.12:821][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.13:591][ 83]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.13:591][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.14:388][149]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.14:388][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.14:684][174]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.14:684][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.14:916][193]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.14:916][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.15:146][212]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_0
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.15:146][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.16:077][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.08.16:077][287]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.08.16:077][287]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.08.16:080][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.08.16:086][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.08.16:089][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.08.16:111][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.08.16:129][287]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E88C4A1940), frame # 69287
+[2021.04.25-18.08.16:130][287]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8B8615E00), frame # 69287
+[2021.04.25-18.08.16:132][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.25-18.08.16:266][287]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.25-18.08.16:278][288]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.25-18.08.19:479][515]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-18.08.19:496][515]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-18.08.21:527][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.08.21:550][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.25-18.08.21:658][666]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage9ED6E7E04E3690DA1EC900A0B879A7FC.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.08.21:690][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.08.21:705][666]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData58AC7C054D0406A6660B009490041437.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.08.21:724][666]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.08.21:724][666]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.08.21:724][666]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.08.22:142][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.08.24:300][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.08.24:322][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.25-18.08.24:427][819]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageF94923824535997DACB678AB6301AD35.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.08.24:460][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.08.24:474][819]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataA1962449447BD9A6ADE373B9755249C6.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.08.24:494][819]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.08.24:494][819]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.08.24:495][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.08.39:275][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.08.39:298][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.25-18.08.39:405][705]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageE81AEC58445865356E0215B8450A8C43.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.08.39:437][705]LogFileHelpers: Saving map 'Storage' took 0.163
+[2021.04.25-18.08.39:449][705]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.08.39:449][705]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.08.43:898][997]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.08.43:921][997]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.25-18.08.43:921][997]LogPlayLevel: [PlayLevel] Compiling Storage before play...
+[2021.04.25-18.08.43:969][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.25-18.08.43:972][997]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2021.04.25-18.08.43:972][997]PIE: New page: PIE session: Storage (25 Apr 2021, 20:08:43)
+[2021.04.25-18.08.43:973][997]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.08.43:992][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019142s)
+[2021.04.25-18.08.43:993][997]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.08.43:993][997]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E92B0B6C00), frame # 70997
+[2021.04.25-18.08.43:993][997]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E91027F240), frame # 70997
+[2021.04.25-18.08.43:993][997]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2021.04.25-18.08.43:993][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.020561s)
+[2021.04.25-18.08.44:017][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.04.25-18.08.44:020][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.08.44:020][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.08.44:020][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.08.44:021][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.08.44:021][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.08.44:021][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.08.44:021][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.08.44:021][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.08.44:021][997]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.08.44:021][997]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.08.44:026][997]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.08.44:026][997]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.08.44:043][997]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.08.44:044][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.08.44:044][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.08.44:044][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.08.44:044][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.08.44:057][997]LogInit: FAudioDevice initialized.
+[2021.04.25-18.08.44:064][997]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.08.44:075][997]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.08.44
+[2021.04.25-18.08.44:075][997]LogWorld: Bringing up level for play took: 0.010151
+[2021.04.25-18.08.44:075][997]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.25-18.08.44:079][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage'!
+[2021.04.25-18.08.44:079][997]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_1
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:0015
+[2021.04.25-18.08.44:079][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.44:079][997]PIE: Server logged in
+[2021.04.25-18.08.44:080][997]PIE: Play in editor total start time 0.165 seconds.
+[2021.04.25-18.08.45:546][106]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_1
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:00C4
+[2021.04.25-18.08.45:546][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.46:091][150]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_1
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:00C4
+[2021.04.25-18.08.46:091][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.46:297][167]LogScript: Warning: Accessed None trying to read property Bomb
+	Storage_C /Game/Maps/UEDPIE_0_Storage.Storage:PersistentLevel.Storage_C_1
+	Function /Game/Maps/Storage.Storage_C:ExecuteUbergraph_Storage:00C4
+[2021.04.25-18.08.46:297][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Bomb". Blueprint:  Storage Function:  Execute Ubergraph Storage Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.04.25-18.08.46:617][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.08.46:617][191]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.08.46:617][191]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.08.46:619][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.08.46:628][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.08.46:632][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.08.46:652][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.08.46:669][191]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E91027F240), frame # 71191
+[2021.04.25-18.08.46:669][191]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E92B0B6C00), frame # 71191
+[2021.04.25-18.08.46:672][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.25-18.08.46:819][192]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.25-18.08.48:953][327]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-18.08.48:972][327]LogSlate: Window 'Message Log' being destroyed
+[2021.04.25-18.08.50:514][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_A)
+[2021.04.25-18.08.59:484][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.08.59:505][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.04.25-18.08.59:611][909]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageA06A72A1413BCA4BEC893AA223616CFE.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.08.59:645][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.08.59:659][909]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData71A2D97144C023276E07CA9E19D8D08F.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.08.59:683][909]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.08.59:683][909]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.08.59:683][909]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.09.00:320][950]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.09.00:341][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.09.00:341][950]PIE: New page: PIE session: Storage (25 Apr 2021, 20:09:00)
+[2021.04.25-18.09.00:342][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.09.00:361][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018948s)
+[2021.04.25-18.09.00:362][950]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.09.00:362][950]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E92560EE00), frame # 71950
+[2021.04.25-18.09.00:362][950]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E9108FCE00), frame # 71950
+[2021.04.25-18.09.00:362][950]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2021.04.25-18.09.00:362][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.020350s)
+[2021.04.25-18.09.00:384][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.09.00:389][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.09.00:389][950]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.09.00:389][950]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.09.00:394][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.09.00:394][950]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.09.00:413][950]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.09.00:413][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.09.00:413][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.09.00:413][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.09.00:413][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.09.00:427][950]LogInit: FAudioDevice initialized.
+[2021.04.25-18.09.00:433][950]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.09.00:443][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.09.00
+[2021.04.25-18.09.00:444][950]LogWorld: Bringing up level for play took: 0.009877
+[2021.04.25-18.09.00:444][950]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.25-18.09.00:448][950]PIE: Server logged in
+[2021.04.25-18.09.00:449][950]PIE: Play in editor total start time 0.111 seconds.
+[2021.04.25-18.09.02:527][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.02:527][112]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.09.02:527][112]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.09.02:529][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.09.02:540][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.09.02:543][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.09.02:580][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.09.02:582][112]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E9108FCE00), frame # 72112
+[2021.04.25-18.09.02:582][112]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E92560EE00), frame # 72112
+[2021.04.25-18.09.02:585][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.04.25-18.09.02:630][113]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.25-18.09.30:069][852]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.04.25-18.09.31:604][997]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.25-18.09.32:714][ 82]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.25-18.09.35:752][373]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.25-18.09.36:708][449]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.25-18.09.37:393][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.09.37:418][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.25-18.09.37:528][490]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageD0F99D444C4195DD0342149EB0986412.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.09.37:562][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.09.37:579][490]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData9F48897C4A719B8233FDDF961713D039.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.09.37:599][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.09.37:599][490]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.09.37:599][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.09.40:562][754]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.04.25-18.09.40:846][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.09.40:867][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.25-18.09.40:974][775]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageDFB5BB9441411E54D615A0A3BBD1C719.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.09.41:008][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.09.41:023][775]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataD38D4857426BFB3948837DB629C8E183.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.09.41:043][775]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.09.41:043][775]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.09.41:043][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.11.11:905][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.11.11:930][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.25-18.11.12:041][834]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage4293A8144EF7F69584516BB203A7AAF6.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.11.12:075][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.11.12:089][834]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData7C0E0F4B4605F0DA09C01B8C8567344A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.11.12:115][834]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.11.12:115][834]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.11.12:115][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.11.22:767][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.11.22:791][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.25-18.11.22:900][869]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageA752CE5F4A44666CECF8219AA105D210.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.11.22:934][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.11.22:948][869]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData4DB125E6452B930AD6E334B157ECCFC2.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.11.22:968][869]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.11.22:968][869]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.11.22:968][869]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.11.38:801][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.11.38:825][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.25-18.11.38:934][ 85]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageA8D96F254C31B2B43B851A9A2DB3237D.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.11.38:967][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.11.38:982][ 85]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData005782B5479F589E3F033482544AA7C2.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.11.39:002][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.11.39:002][ 85]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.11.39:002][ 85]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.12.26:021][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.12.26:046][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.04.25-18.12.26:157][831]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage5270F5E84B8CB9F9553595B02E168C61.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.12.26:188][831]LogFileHelpers: Saving map 'Storage' took 0.167
+[2021.04.25-18.12.26:201][831]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.12.26:201][831]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.12.42:913][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.12.42:935][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.25-18.12.43:045][806]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageBAD0089C4AF72D8AF9BDFEB09E340902.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.12.43:078][806]LogFileHelpers: Saving map 'Storage' took 0.166
+[2021.04.25-18.12.43:090][806]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.12.43:090][806]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.12.49:503][189]BlueprintLog: New page: Compile Storage
+[2021.04.25-18.12.49:548][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.04.25-18.12.51:368][298]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.12.51:392][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.12.51:392][298]PIE: New page: PIE session: Storage (25 Apr 2021, 20:12:51)
+[2021.04.25-18.12.51:393][298]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.12.51:413][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019924s)
+[2021.04.25-18.12.51:414][298]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.12.51:414][298]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8B8060600), frame # 82298
+[2021.04.25-18.12.51:414][298]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8B197DBC0), frame # 82298
+[2021.04.25-18.12.51:414][298]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2021.04.25-18.12.51:414][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.021543s)
+[2021.04.25-18.12.51:436][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.25-18.12.51:440][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.12.51:441][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.12.51:441][298]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.12.51:441][298]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.12.51:446][298]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.12.51:446][298]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.12.51:465][298]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.12.51:465][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.12.51:465][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.12.51:465][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.12.51:466][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.12.51:478][298]LogInit: FAudioDevice initialized.
+[2021.04.25-18.12.51:485][298]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.12.51:496][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.12.51
+[2021.04.25-18.12.51:496][298]LogWorld: Bringing up level for play took: 0.010644
+[2021.04.25-18.12.51:496][298]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.25-18.12.51:500][298]PIE: Server logged in
+[2021.04.25-18.12.51:501][298]PIE: Play in editor total start time 0.115 seconds.
+[2021.04.25-18.12.53:238][458]LogNet: Browse: /Game/Maps/CorridorReturn
+[2021.04.25-18.12.53:238][458]LogLoad: LoadMap: /Game/Maps/CorridorReturn
+[2021.04.25-18.12.53:238][458]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.12.53:239][458]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.12.53:241][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.12.53:298][458]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8B197DBC0), frame # 82458
+[2021.04.25-18.12.53:298][458]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8B8060600), frame # 82458
+[2021.04.25-18.12.53:301][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.25-18.12.53:472][458]LogAIModule: Creating AISystem for world CorridorReturn
+[2021.04.25-18.12.53:472][458]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E92A6CBE00), frame # 82458
+[2021.04.25-18.12.53:472][458]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E806056700), frame # 82458
+[2021.04.25-18.12.53:472][458]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.12.53:479][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CorridorReturn.CorridorReturn up for play (max tick rate 0) at 2021.04.25-19.12.53
+[2021.04.25-18.12.53:479][458]LogWorld: Bringing up level for play took: 0.005665
+[2021.04.25-18.12.53:481][458]LogLoad: Took 0.242489 seconds to LoadMap(/Game/Maps/CorridorReturn)
+[2021.04.25-18.12.53:917][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.12.53:917][494]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CorridorReturn
+[2021.04.25-18.12.53:917][494]LogWorld: UWorld::CleanupWorld for CorridorReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.12.53:918][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.12.53:923][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.12.53:927][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.12.53:964][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.12.53:965][494]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E806056700), frame # 82494
+[2021.04.25-18.12.53:965][494]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E92A6CBE00), frame # 82494
+[2021.04.25-18.12.53:969][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.25-18.12.54:010][495]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.25-18.13.02:050][302]LogEditorViewport: Clicking on Actor (LMB): LevelTransition_C (LevelTransition)
+[2021.04.25-18.13.09:774][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.13.09:797][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.25-18.13.09:909][  0]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage4317468C4A74714C65074FB2F60F8780.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.13.09:942][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.13.09:957][  0]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData73E4BF3F47B1736D357BF38969475D6E.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.13.09:982][  0]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.13.09:982][  0]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.13.09:982][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.13.10:544][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.13.10:565][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.13.10:565][ 46]PIE: New page: PIE session: Storage (25 Apr 2021, 20:13:10)
+[2021.04.25-18.13.10:566][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.13.10:585][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019467s)
+[2021.04.25-18.13.10:586][ 46]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.13.10:586][ 46]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8835D3000), frame # 84046
+[2021.04.25-18.13.10:586][ 46]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8B197C400), frame # 84046
+[2021.04.25-18.13.10:586][ 46]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2021.04.25-18.13.10:586][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.021105s)
+[2021.04.25-18.13.10:608][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.13.10:612][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.13.10:612][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.13.10:613][ 46]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.13.10:613][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.13.10:617][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.13.10:617][ 46]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.13.10:634][ 46]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.13.10:634][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.13.10:634][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.13.10:634][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.13.10:635][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.13.10:647][ 46]LogInit: FAudioDevice initialized.
+[2021.04.25-18.13.10:654][ 46]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.13.10:664][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.13.10
+[2021.04.25-18.13.10:665][ 46]LogWorld: Bringing up level for play took: 0.010184
+[2021.04.25-18.13.10:665][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.25-18.13.10:669][ 46]PIE: Server logged in
+[2021.04.25-18.13.10:670][ 46]PIE: Play in editor total start time 0.109 seconds.
+[2021.04.25-18.13.13:132][269]LogNet: Browse: /Game/Maps/CorridorReturn
+[2021.04.25-18.13.13:132][269]LogLoad: LoadMap: /Game/Maps/CorridorReturn
+[2021.04.25-18.13.13:132][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.13.13:133][269]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.13.13:137][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.13:187][269]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8B197C400), frame # 84269
+[2021.04.25-18.13.13:187][269]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8835D3000), frame # 84269
+[2021.04.25-18.13.13:190][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.25-18.13.13:209][269]LogAIModule: Creating AISystem for world CorridorReturn
+[2021.04.25-18.13.13:209][269]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E864BBEC00), frame # 84269
+[2021.04.25-18.13.13:209][269]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E864972C00), frame # 84269
+[2021.04.25-18.13.13:209][269]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.13.13:216][269]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CorridorReturn.CorridorReturn up for play (max tick rate 0) at 2021.04.25-19.13.13
+[2021.04.25-18.13.13:217][269]LogWorld: Bringing up level for play took: 0.006026
+[2021.04.25-18.13.13:219][269]LogLoad: Took 0.087405 seconds to LoadMap(/Game/Maps/CorridorReturn)
+[2021.04.25-18.13.13:827][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.13.13:827][328]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CorridorReturn
+[2021.04.25-18.13.13:827][328]LogWorld: UWorld::CleanupWorld for CorridorReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.13.13:828][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.13:835][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.13.13:839][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.13:860][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.13.13:880][328]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E864972C00), frame # 84328
+[2021.04.25-18.13.13:880][328]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E864BBEC00), frame # 84328
+[2021.04.25-18.13.13:883][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.25-18.13.13:923][329]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.25-18.13.14:915][436]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.13.14:932][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.13.14:932][436]PIE: New page: PIE session: Storage (25 Apr 2021, 20:13:14)
+[2021.04.25-18.13.14:956][436]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.13.14:975][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019408s)
+[2021.04.25-18.13.14:976][436]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.13.14:976][436]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8C885E800), frame # 84436
+[2021.04.25-18.13.14:977][436]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E8EEAE8A40), frame # 84436
+[2021.04.25-18.13.14:977][436]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2021.04.25-18.13.14:977][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.021025s)
+[2021.04.25-18.13.14:999][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.13.15:003][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.13.15:003][436]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.13.15:003][436]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.13.15:008][436]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.13.15:008][436]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.13.15:026][436]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.13.15:026][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.13.15:026][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.13.15:026][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.13.15:026][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.13.15:039][436]LogInit: FAudioDevice initialized.
+[2021.04.25-18.13.15:047][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.13.15:057][436]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.13.15
+[2021.04.25-18.13.15:058][436]LogWorld: Bringing up level for play took: 0.010216
+[2021.04.25-18.13.15:058][436]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.25-18.13.15:062][436]PIE: Server logged in
+[2021.04.25-18.13.15:063][436]PIE: Play in editor total start time 0.131 seconds.
+[2021.04.25-18.13.16:293][563]LogNet: Browse: /Game/Maps/CorridorReturn
+[2021.04.25-18.13.16:293][563]LogLoad: LoadMap: /Game/Maps/CorridorReturn
+[2021.04.25-18.13.16:294][563]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.13.16:294][563]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.13.16:296][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.16:368][563]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E8EEAE8A40), frame # 84563
+[2021.04.25-18.13.16:368][563]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8C885E800), frame # 84563
+[2021.04.25-18.13.16:371][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.25-18.13.16:390][563]LogAIModule: Creating AISystem for world CorridorReturn
+[2021.04.25-18.13.16:390][563]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E807140800), frame # 84563
+[2021.04.25-18.13.16:390][563]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E9335C0400), frame # 84563
+[2021.04.25-18.13.16:390][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.13.16:397][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CorridorReturn.CorridorReturn up for play (max tick rate 0) at 2021.04.25-19.13.16
+[2021.04.25-18.13.16:397][563]LogWorld: Bringing up level for play took: 0.005695
+[2021.04.25-18.13.16:399][563]LogLoad: Took 0.104751 seconds to LoadMap(/Game/Maps/CorridorReturn)
+[2021.04.25-18.13.17:027][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.13.17:027][633]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CorridorReturn
+[2021.04.25-18.13.17:027][633]LogWorld: UWorld::CleanupWorld for CorridorReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.13.17:028][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.17:034][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.13.17:037][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.13.17:075][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.13.17:075][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E9335C0400), frame # 84633
+[2021.04.25-18.13.17:076][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E807140800), frame # 84633
+[2021.04.25-18.13.17:078][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.25-18.13.17:119][634]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.25-18.13.22:439][166]LogEditorViewport: Clicking on Actor (LMB): LevelTransition_C (LevelTransition)
+[2021.04.25-18.13.26:452][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.13.26:475][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.25-18.13.26:586][538]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage551105144B474F50A424109C229110BC.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.13.26:619][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.13.26:633][538]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataC614B7F34896306DD277BCB8D3F11447.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.13.26:653][538]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.13.26:653][538]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.13.26:653][538]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.14.58:123][618]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/LevelTransition.LevelTransition
+[2021.04.25-18.15.19:635][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/LevelTransition" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset" SILENT=true
+[2021.04.25-18.15.19:648][302]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/LevelTransition58A119FB43D1F222F1F810805D3EC9F7.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset'
+[2021.04.25-18.15.19:664][302]AssetCheck: New page: Asset Save: LevelTransition
+[2021.04.25-18.15.19:664][302]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/LevelTransition.LevelTransition
+[2021.04.25-18.15.30:595][915]BlueprintLog: New page: Compile LevelTransition
+[2021.04.25-18.15.30:652][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.25-18.15.32:497][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/LevelTransition" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset" SILENT=true
+[2021.04.25-18.15.32:510][ 37]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/LevelTransitionE6764F17462D948952436EA7226A8964.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset'
+[2021.04.25-18.15.32:527][ 37]AssetCheck: New page: Asset Save: LevelTransition
+[2021.04.25-18.15.32:527][ 37]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/LevelTransition.LevelTransition
+[2021.04.25-18.16.04:083][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/LevelTransition" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset" SILENT=true
+[2021.04.25-18.16.04:097][324]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/LevelTransition619138494BBDFCAC691BCCBFC3A323A7.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset'
+[2021.04.25-18.16.04:112][324]AssetCheck: New page: Asset Save: LevelTransition
+[2021.04.25-18.16.04:112][324]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/LevelTransition.LevelTransition
+[2021.04.25-18.16.05:758][434]BlueprintLog: New page: Compile LevelTransition
+[2021.04.25-18.16.05:818][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.25-18.16.07:202][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.16.07:230][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.25-18.16.07:340][514]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageB480938E4C928A190428219F03658DEA.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.16.07:372][514]LogFileHelpers: Saving map 'Storage' took 0.170
+[2021.04.25-18.16.07:385][514]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.16.07:385][514]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.16.40:557][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.16.40:584][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.25-18.16.40:697][807]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageC4CA9B3D40324C97E7431D908A1F97DB.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.16.40:729][807]LogFileHelpers: Saving map 'Storage' took 0.173
+[2021.04.25-18.16.40:744][807]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.16.40:744][807]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.16.41:314][845]BlueprintLog: New page: Compile Storage
+[2021.04.25-18.16.41:359][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.25-18.16.49:983][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.16.50:009][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.04.25-18.16.50:118][634]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage5B73F8AD41E96093D68CCF8D037A0B6A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.16.50:152][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.16.50:169][634]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltDataD5ACE14442105D0BC30238BC05DDB2B2.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.16.50:191][634]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.16.50:191][634]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.16.50:191][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.16.51:570][765]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.25-18.16.52:272][829]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.25-18.16.53:069][905]LogEditorViewport: Clicking on Actor (LMB): LevelTransition_C (LevelTransition)
+[2021.04.25-18.17.00:239][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/LevelTransition" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset" SILENT=true
+[2021.04.25-18.17.00:252][297]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/LevelTransition4D7CD90B4DCA8E79142E62B828516A2A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/BluePrints/LevelTransition.uasset'
+[2021.04.25-18.17.00:265][297]AssetCheck: New page: Asset Save: LevelTransition
+[2021.04.25-18.17.00:265][297]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/LevelTransition.LevelTransition
+[2021.04.25-18.17.01:069][349]BlueprintLog: New page: Compile LevelTransition
+[2021.04.25-18.17.01:125][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.25-18.17.03:159][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.17.03:186][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.25-18.17.03:294][469]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/StorageDC992C5543E65418584E41B5526D0333.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.17.03:327][469]LogFileHelpers: Saving map 'Storage' took 0.169
+[2021.04.25-18.17.03:341][469]AssetCheck: New page: Asset Save: Storage
+[2021.04.25-18.17.03:341][469]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.17.07:603][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.17.07:629][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.25-18.17.07:739][822]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage35ED98694D8AA0BF9C4BDE88A64F3112.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.17.07:773][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.17.07:789][822]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData098F38AD4EEF99BE1C9784ACE5CAA0E7.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.17.07:808][822]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.17.07:808][822]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.17.07:808][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.17.08:311][869]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.17.08:332][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.17.08:333][869]PIE: New page: PIE session: Storage (25 Apr 2021, 20:17:08)
+[2021.04.25-18.17.08:366][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.17.08:386][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020186s)
+[2021.04.25-18.17.08:387][869]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.17.08:387][869]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E864BBE000), frame # 98869
+[2021.04.25-18.17.08:387][869]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E97ACD4400), frame # 98869
+[2021.04.25-18.17.08:388][869]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2021.04.25-18.17.08:388][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Storage.Storage to /Game/Maps/UEDPIE_0_Storage.Storage (0.022005s)
+[2021.04.25-18.17.08:413][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.17.08:417][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.17.08:417][869]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.17.08:417][869]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.17.08:421][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.17.08:421][869]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.17.08:441][869]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.17.08:441][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.17.08:441][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.17.08:441][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.17.08:442][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.17.08:456][869]LogInit: FAudioDevice initialized.
+[2021.04.25-18.17.08:464][869]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.17.08:475][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.17.08
+[2021.04.25-18.17.08:475][869]LogWorld: Bringing up level for play took: 0.010257
+[2021.04.25-18.17.08:475][869]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.25-18.17.08:480][869]PIE: Server logged in
+[2021.04.25-18.17.08:481][869]PIE: Play in editor total start time 0.153 seconds.
+[2021.04.25-18.17.14:010][405]LogNet: Browse: /Game/Maps/CorridorReturn
+[2021.04.25-18.17.14:010][405]LogLoad: LoadMap: /Game/Maps/CorridorReturn
+[2021.04.25-18.17.14:010][405]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.17.14:011][405]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.17.14:012][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.14:071][405]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E97ACD4400), frame # 99405
+[2021.04.25-18.17.14:071][405]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E864BBE000), frame # 99405
+[2021.04.25-18.17.14:074][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.25-18.17.14:093][405]LogAIModule: Creating AISystem for world CorridorReturn
+[2021.04.25-18.17.14:093][405]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8B8437000), frame # 99405
+[2021.04.25-18.17.14:093][405]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E97B15A0C0), frame # 99405
+[2021.04.25-18.17.14:094][405]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.17.14:100][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CorridorReturn.CorridorReturn up for play (max tick rate 0) at 2021.04.25-19.17.14
+[2021.04.25-18.17.14:100][405]LogWorld: Bringing up level for play took: 0.005845
+[2021.04.25-18.17.14:102][405]LogLoad: Took 0.092003 seconds to LoadMap(/Game/Maps/CorridorReturn)
+[2021.04.25-18.17.27:675][948]LogNet: Browse: /Game/Maps/GlassPuzzleReturn
+[2021.04.25-18.17.27:675][948]LogLoad: LoadMap: /Game/Maps/GlassPuzzleReturn
+[2021.04.25-18.17.27:675][948]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CorridorReturn
+[2021.04.25-18.17.27:676][948]LogWorld: UWorld::CleanupWorld for CorridorReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.17.27:677][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.27:729][948]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E97B15A0C0), frame # 100948
+[2021.04.25-18.17.27:729][948]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8B8437000), frame # 100948
+[2021.04.25-18.17.27:731][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.25-18.17.27:778][948]LogAIModule: Creating AISystem for world GlassPuzzleReturn
+[2021.04.25-18.17.27:778][948]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E864BBF800), frame # 100948
+[2021.04.25-18.17.27:778][948]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E91C3E0F40), frame # 100948
+[2021.04.25-18.17.27:778][948]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.17.27:790][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GlassPuzzleReturn.GlassPuzzleReturn up for play (max tick rate 0) at 2021.04.25-19.17.27
+[2021.04.25-18.17.27:791][948]LogWorld: Bringing up level for play took: 0.011862
+[2021.04.25-18.17.27:793][948]LogLoad: Took 0.117556 seconds to LoadMap(/Game/Maps/GlassPuzzleReturn)
+[2021.04.25-18.17.29:647][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.17.29:647][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GlassPuzzleReturn
+[2021.04.25-18.17.29:647][145]LogWorld: UWorld::CleanupWorld for GlassPuzzleReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.17.29:649][145]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2021.04.25-18.17.29:649][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.29:656][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.17.29:659][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.29:683][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.17.29:702][145]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E91C3E0F40), frame # 101145
+[2021.04.25-18.17.29:702][145]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E864BBF800), frame # 101145
+[2021.04.25-18.17.29:705][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.25-18.17.29:744][146]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.25-18.17.30:768][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.17.30:794][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.04.25-18.17.30:906][263]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage7B66F5A74D03F7048B7337B0946459D4.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage.umap'
+[2021.04.25-18.17.30:940][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Storage_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset" SILENT=true
+[2021.04.25-18.17.30:954][263]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Storage_BuiltData992124294FA33F9B3C9274B859886707.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Storage_BuiltData.uasset'
+[2021.04.25-18.17.30:974][263]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.17.30:974][263]LogContentValidation: Display: Validating World /Game/Maps/Storage.Storage
+[2021.04.25-18.17.30:974][263]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Storage_BuiltData.Storage_BuiltData
+[2021.04.25-18.17.43:402][575]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Corridor.Corridor
+[2021.04.25-18.17.43:429][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.04.25-18.17.43:432][575]Cmd: MAP LOAD FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-18.17.43:432][575]LightingResults: New page: Lighting Build
+[2021.04.25-18.17.43:432][575]LoadErrors: New page: Loading map: Corridor.umap
+[2021.04.25-18.17.43:506][575]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.17.43:506][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.43:552][575]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.17.43:552][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.17.43:552][575]MapCheck: New page: Map Check
+[2021.04.25-18.17.43:553][575]LightingResults: New page: Lighting Build
+[2021.04.25-18.17.43:575][575]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E87AFBD580), frame # 102575
+[2021.04.25-18.17.43:575][575]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E87E9C3200), frame # 102575
+[2021.04.25-18.17.43:579][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.04.25-18.17.43:711][575]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-18.17.43:711][575]LogAIModule: Creating AISystem for world Corridor
+[2021.04.25-18.17.43:711][575]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E8B17A4A00), frame # 102575
+[2021.04.25-18.17.43:711][575]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E9797C4A40), frame # 102575
+[2021.04.25-18.17.43:736][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.25-18.17.43:769][575]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-18.17.43:770][575]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2021.04.25-18.17.43:770][575]LogFileHelpers: Loading map 'Corridor' took 0.338
+[2021.04.25-18.17.49:492][215]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.25-18.17.50:371][301]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2021.04.25-18.17.52:990][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.17.53:012][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.25-18.17.53:053][554]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/CorridorA4D3E251458D0470499D47ADAF135DC9.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap'
+[2021.04.25-18.17.53:086][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset" SILENT=true
+[2021.04.25-18.17.53:180][554]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Corridor_BuiltData73F769E542B7892FFE351A9F21254575.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset'
+[2021.04.25-18.17.53:200][554]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.17.53:200][554]LogContentValidation: Display: Validating World /Game/Maps/Corridor.Corridor
+[2021.04.25-18.17.53:200][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Corridor_BuiltData.Corridor_BuiltData
+[2021.04.25-18.19.23:936][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.19.23:960][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.25-18.19.24:004][774]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Corridor4A6199D944320019FFE2E99C524A4E9A.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap'
+[2021.04.25-18.19.24:038][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset" SILENT=true
+[2021.04.25-18.19.24:100][774]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Corridor_BuiltDataAB64514242F45B6FE5FED483F8260E97.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset'
+[2021.04.25-18.19.24:122][774]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.19.24:122][774]LogContentValidation: Display: Validating World /Game/Maps/Corridor.Corridor
+[2021.04.25-18.19.24:122][774]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Corridor_BuiltData.Corridor_BuiltData
+[2021.04.25-18.19.24:716][822]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.25-18.19.24:741][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.25-18.19.24:741][822]PIE: New page: PIE session: Corridor (25 Apr 2021, 20:19:24)
+[2021.04.25-18.19.24:741][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Corridor
+[2021.04.25-18.19.24:748][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006708s)
+[2021.04.25-18.19.24:749][822]LogAIModule: Creating AISystem for world Corridor
+[2021.04.25-18.19.24:749][822]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E97D131C00), frame # 112822
+[2021.04.25-18.19.24:749][822]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E97A0911C0), frame # 112822
+[2021.04.25-18.19.24:749][822]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2021.04.25-18.19.24:750][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Corridor.Corridor to /Game/Maps/UEDPIE_0_Corridor.Corridor (0.008063s)
+[2021.04.25-18.19.24:772][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.25-18.19.24:776][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.25-18.19.24:776][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.25-18.19.24:777][822]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.25-18.19.24:777][822]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.25-18.19.24:781][822]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.25-18.19.24:781][822]LogAudioMixer: Display: 1: FrontRight
+[2021.04.25-18.19.24:799][822]LogAudioMixer: Display: Using Audio Device Headphones (Majority Atlas Stereo)
+[2021.04.25-18.19.24:799][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.25-18.19.24:799][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.25-18.19.24:799][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.25-18.19.24:800][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.25-18.19.24:813][822]LogInit: FAudioDevice initialized.
+[2021.04.25-18.19.24:825][822]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.19.24:829][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Corridor.Corridor up for play (max tick rate 0) at 2021.04.25-19.19.24
+[2021.04.25-18.19.24:829][822]LogWorld: Bringing up level for play took: 0.003350
+[2021.04.25-18.19.24:829][822]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.25-18.19.24:833][822]PIE: Server logged in
+[2021.04.25-18.19.24:834][822]PIE: Play in editor total start time 0.102 seconds.
+[2021.04.25-18.19.35:403][930]LogNet: Browse: /Game/Maps/Storage
+[2021.04.25-18.19.35:403][930]LogLoad: LoadMap: /Game/Maps/Storage
+[2021.04.25-18.19.35:404][930]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Corridor
+[2021.04.25-18.19.35:404][930]LogWorld: UWorld::CleanupWorld for Corridor, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.19.35:405][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.19.35:458][930]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E97A0911C0), frame # 113930
+[2021.04.25-18.19.35:458][930]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E97D131C00), frame # 113930
+[2021.04.25-18.19.35:460][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.25-18.19.35:509][930]LogAIModule: Creating AISystem for world Storage
+[2021.04.25-18.19.35:509][930]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E934C4AA00), frame # 113930
+[2021.04.25-18.19.35:509][930]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E97AAFE700), frame # 113930
+[2021.04.25-18.19.35:509][930]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.19.35:524][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Storage.Storage up for play (max tick rate 0) at 2021.04.25-19.19.35
+[2021.04.25-18.19.35:524][930]LogWorld: Bringing up level for play took: 0.014070
+[2021.04.25-18.19.35:527][930]LogLoad: Took 0.123404 seconds to LoadMap(/Game/Maps/Storage)
+[2021.04.25-18.19.38:726][207]LogNet: Browse: /Game/Maps/CorridorReturn
+[2021.04.25-18.19.38:726][207]LogLoad: LoadMap: /Game/Maps/CorridorReturn
+[2021.04.25-18.19.38:726][207]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Storage
+[2021.04.25-18.19.38:727][207]LogWorld: UWorld::CleanupWorld for Storage, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.19.38:728][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.19.38:788][207]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E97AAFE700), frame # 114207
+[2021.04.25-18.19.38:788][207]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E934C4AA00), frame # 114207
+[2021.04.25-18.19.38:791][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.04.25-18.19.38:809][207]LogAIModule: Creating AISystem for world CorridorReturn
+[2021.04.25-18.19.38:809][207]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E934C48800), frame # 114207
+[2021.04.25-18.19.38:809][207]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E87AFB2700), frame # 114207
+[2021.04.25-18.19.38:809][207]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.25-18.19.38:815][207]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CorridorReturn.CorridorReturn up for play (max tick rate 0) at 2021.04.25-19.19.38
+[2021.04.25-18.19.38:815][207]LogWorld: Bringing up level for play took: 0.005020
+[2021.04.25-18.19.38:818][207]LogLoad: Took 0.091667 seconds to LoadMap(/Game/Maps/CorridorReturn)
+[2021.04.25-18.19.39:406][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.19.39:406][263]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CorridorReturn
+[2021.04.25-18.19.39:406][263]LogWorld: UWorld::CleanupWorld for CorridorReturn, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.19.39:407][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.19.39:414][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.25-18.19.39:417][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.19.39:439][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.25-18.19.39:458][263]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E87AFB2700), frame # 114263
+[2021.04.25-18.19.39:458][263]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E934C48800), frame # 114263
+[2021.04.25-18.19.39:461][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.25-18.19.39:499][264]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.25-18.19.40:280][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.25-18.19.40:304][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.25-18.19.40:342][349]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Corridor28602CC64D5FD3F8DFD99E89CA185152.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor.umap'
+[2021.04.25-18.19.40:374][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Corridor_BuiltData" FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset" SILENT=true
+[2021.04.25-18.19.40:436][349]LogSavePackage: Moving '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Saved/Corridor_BuiltData550FA08D4815509B2062C2B1621A9AD1.tmp' to '../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Corridor_BuiltData.uasset'
+[2021.04.25-18.19.40:457][349]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.25-18.19.40:457][349]LogContentValidation: Display: Validating World /Game/Maps/Corridor.Corridor
+[2021.04.25-18.19.40:457][349]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Corridor_BuiltData.Corridor_BuiltData
+[2021.04.25-18.26.36:111][942]LogSlate: Window 'LevelTransition' being destroyed
+[2021.04.25-18.26.36:117][942]LogSlate: Window 'LevelTransition' being destroyed
+[2021.04.25-18.26.36:133][942]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.26.36:134][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.27.13:817][121]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2021.04.25-18.27.13:817][121]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2021.04.25-18.27.13:817][121]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.04.25-18.27.13:818][121]LogStaticMesh: Building static mesh Sphere...
+[2021.04.25-18.27.15:242][121]LogTexture: Display: Building textures: Savannah (AutoDXT, 2000X1000)
+[2021.04.25-18.27.15:242][121]LogTexture: Display: Building textures: Alpine (AutoDXT, 2000X1000)
+[2021.04.25-18.27.15:242][121]LogStaticMesh: Built static mesh [1.42s] /Game/_GENERATED/Sphere.Sphere
+[2021.04.25-18.27.18:762][121]LogTexture: Display: Building textures: Tropical (AutoDXT, 2000X1000)
+[2021.04.25-18.27.18:762][121]LogTexture: Display: Building textures: Terrestrial4 (AutoDXT, 2000X1000)
+[2021.04.25-18.27.18:762][121]LogTexture: Display: Building textures: Terrestrial2 (AutoDXT, 2000X1000)
+[2021.04.25-18.27.18:762][121]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2021.04.25-18.27.18:909][121]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.04.25-18.27.18:910][121]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.25-18.27.18:910][121]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.25-18.27.18:910][121]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Awaken...
+[2021.04.25-18.27.18:966][121]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/Awaken.Awaken will be modified from 40 to 40.
+[2021.04.25-18.27.23:787][121]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46587904 while cooking SoundWave /Game/Music/Awaken.Awaken.
+[2021.04.25-18.27.23:824][121]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Credits.Credits
+[2021.04.25-18.27.24:044][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.25-18.27.24:055][121]Cmd: MAP LOAD FILE="../../../../../../Users/morga/Documents/GitHub/EVEGAME/EVE/Content/Maps/Credits.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.25-18.27.24:104][121]LightingResults: New page: Lighting Build
+[2021.04.25-18.27.24:105][121]LoadErrors: New page: Loading map: Credits.umap
+[2021.04.25-18.27.24:136][121]LogWorld: UWorld::CleanupWorld for Corridor, bSessionEnded=true, bCleanupResources=true
+[2021.04.25-18.27.24:136][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.25-18.27.24:136][121]MapCheck: New page: Map Check
+[2021.04.25-18.27.24:136][121]LightingResults: New page: Lighting Build
+[2021.04.25-18.27.24:157][121]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E9797C4A40), frame # 121121
+[2021.04.25-18.27.24:158][121]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8B17A4A00), frame # 121121
+[2021.04.25-18.27.24:160][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.04.25-18.27.24:164][121]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.04.25-18.27.24:308][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.25-18.27.24:309][121]LogAIModule: Creating AISystem for world Credits
+[2021.04.25-18.27.24:309][121]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E96AAAD600), frame # 121121
+[2021.04.25-18.27.24:309][121]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E91C86A480), frame # 121121
+[2021.04.25-18.27.24:332][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.04.25-18.27.24:365][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.25-18.27.24:365][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2021.04.25-18.27.24:365][121]LogFileHelpers: Loading map 'Credits' took 0.309
+[2021.04.25-18.27.24:443][123]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
